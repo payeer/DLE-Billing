@@ -1,8 +1,8 @@
 DataLife Engine
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте все файлы.
-Далее следуйте прилагаемой инструкции.
+To install the module, download all the files.
+Then follow the attached instructions.
 
-Поддержка версии CMS DataLife Engine 14.3 - Billing 0.7.2
+Support for CMS DataLife Engine 14.3 - Billing 0.7.2
